@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  application.cpp
+C:\Users\jahan_lw4w0q1\Desktop\CG2021_P3\src\framework\application.cpp(75,20): warning C4018: '<': no coinciden signed/unsigned
+  camera.cpp
+  framework.cpp
+  image.cpp
+  mesh.cpp
+C:\Users\jahan_lw4w0q1\Desktop\CG2021_P3\src\framework\application.cpp(127,2): warning C4060: la instrucción switch no contiene etiquetas 'case' ni 'default'
+C:\Users\jahan_lw4w0q1\Desktop\CG2021_P3\src\framework\mesh.cpp(145,30): warning C4018: '<': no coinciden signed/unsigned
+  main.cpp
+  utils.cpp
+  Generando código...
+C:\Users\jahan_lw4w0q1\Desktop\CG2021_P3\src\framework\mesh.cpp(182,36): warning C4267: 'inicializando': conversión de 'size_t' a 'char'; posible pérdida de datos
+application.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  visual.vcxproj -> C:\Users\jahan_lw4w0q1\Desktop\CG2021_P3\visual\visual\..\..\build\ComputerGraphics.exe
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
